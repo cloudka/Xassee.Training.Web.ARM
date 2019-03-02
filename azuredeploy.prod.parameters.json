@@ -4,23 +4,23 @@
     "parameters": {
 
         "publicHostingPlanName": {
-            "value": "xt-prod-hp-public"
+            "value": "diyakadevops-prod-hp-public"
         },
 
         "apiHostingPlanName": {
-            "value": "xt-prod-hp-public"
+            "value": "diyakadevops-prod-hp-public"
         },
 
         "publicWebSiteName": {
-            "value": "xt-prod-web-public"
+            "value": "diyakadevops-prod-web-public"
         },
         "apiWebSiteName": {
-            "value": "xt-prod-api-crm"
+            "value": "diyakadevops-prod-api-crm"
         },
 
 
         "crmSqlserverName": {
-            "value": "xt-prod-sql-crm"
+            "value": "diyakadevops-prod-sql-crm"
         },
         "administratorLogin": {
             "value": "superadmin"
@@ -35,7 +35,7 @@
             "value": "Basic"
         },
         "crmApiName": {
-            "value": "xt-prod-api-crm"
+            "value": "diyakadevops-prod-api-crm"
         }
     }
 }
