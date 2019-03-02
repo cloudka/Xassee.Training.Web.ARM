@@ -4,29 +4,29 @@
     "parameters": {
 
         "publicHostingPlanName": {
-            "value": "xt-ci-hp-public"
+            "value": "diyakadevops-ci-hp-public"
         },
 
         "apiHostingPlanName": {
-            "value": "xt-ci-hp-public"
+            "value": "diyakadevops-ci-hp-public"
         },
 
         "publicWebSiteName": {
-            "value": "xt-ci-web-public"
+            "value": "diyakadevops-ci-web-public"
         },
         "apiWebSiteName": {
-            "value": "xt-ci-api-crm"
+            "value": "diyakadevops-ci-api-crm"
         },
 
 
         "crmSqlserverName": {
-            "value": "xt-ci-sql-crm"
+            "value": "diyakadevops-ci-sql-crm"
         },
         "administratorLogin": {
             "value": "superadmin"
         },
         "administratorLoginPassword": {
-            "value": ""
+            "value": "SamiaDiya@1983"
         },
         "crmDatabaseName": {
             "value": "CRM"
@@ -35,7 +35,7 @@
             "value": "Basic"
         },
         "crmApiName": {
-            "value": "xt-ci-api-crm"
+            "value": "diyakadevops-ci-api-crm"
         }
     }
 }
